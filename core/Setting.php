@@ -16,10 +16,10 @@ class Setting
 	{
 		return [
 			'db1' => [
-				'dbhost' => '172.2.0.10',
-			    'dbuser' => 'fos2',
-			    'dbpass' => 'fos',
-			    'dbname' => 'fos2_personal_training',
+				'dbhost' => 'xxx',
+			    'dbuser' => 'xxx',
+			    'dbpass' => 'xxx',
+			    'dbname' => 'xxx',
 			],
 			'db2' => [
 				'dbhost' => 'xxx',
